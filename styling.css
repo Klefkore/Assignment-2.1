@@ -1,0 +1,22 @@
+ body {
+ background-color: #067250;
+ text-align: center;
+ padding: 50px;
+ }
+ #gameContainer {
+  max-width: 600px;
+  margin: auto;
+  padding: 20px;
+  background-color: #1c9626;
+  border-radius: 10px;
+
+ }
+ button {
+  font-size: 18px;
+  padding: 10px 20px;
+  background-color: #a7cef0;
+  outline: none;
+ }
+ button:hover {
+   background-color: #275ecb;
+ }
